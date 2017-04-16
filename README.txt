@@ -1,7 +1,9 @@
-WEATHER APP PRODUCTION VERSION:
+GOOGLE MAPS AUTOCOMPLETE WEATHER APP PRODUCTION:
 
 RUN APPLICATION:
-1.cd into project folder
-2.type command "npm run serve"
+1.clone repository into project folder
+2.cd into project folder
+3.type "npm run serve"
+
 
 
