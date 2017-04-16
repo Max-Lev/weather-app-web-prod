@@ -1,0 +1,23 @@
+{
+  "name": "weather-app-web-prod",
+  "version": "1.0.0",
+  "description": "Angular 2 Google Maps Weather Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Max-Lev/weather-app-web-prod.git"
+  },
+  "author": "Max L.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Max-Lev/weather-app-web-prod/issues"
+  },
+  "homepage": "https://github.com/Max-Lev/weather-app-web-prod#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
