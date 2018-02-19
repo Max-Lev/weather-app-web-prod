@@ -2,9 +2,10 @@
   "name": "weather-app-web-prod",
   "version": "1.0.0",
   "description": "Angular 2 Google Maps Weather Service",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "serve":"lite-server"
+    "start":"node server.js",
+    "serve": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "homepage": "https://github.com/Max-Lev/weather-app-web-prod#readme",
   "devDependencies": {
     "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
   }
 }
